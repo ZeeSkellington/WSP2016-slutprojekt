@@ -5,7 +5,7 @@
  * Date: 2016-04-05
  * Time: 12:56
  */
-	$page="";
+	$page="home";
 //checks if GET exists
 if (isset($_GET["page"]))
 {
@@ -20,7 +20,7 @@ if (isset($_GET["page"]))
     }
     else
     {
-        require "";
+        require "content/home.php";
     }
-	require "";
+	require "include/footer.php";
 ?>
