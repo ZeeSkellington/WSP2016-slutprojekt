@@ -9,9 +9,25 @@
 ?>
 <!DOCTYPE html>
 <html>
+
 <head>
     <title>FiGybook</title>
-
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="" />
 </head>
-<body>
 
+<body>
+<div id="main">
+    <header>
+            <div id="Headtext">
+                <h3><a href="index.php?page=home">FiGybook</a></h3>
+            </div>
+            <nav>
+                <div id="menu">
+                        <li><a href="index.php?page=">Your board</a></li>
+                        <li><a href="index.php?page=">Friends</a></li>
+                        <li><a href="index.php?page=">Profile</a></li>
+                        <li><a href="index.php?page=">Settings</a></li>
+                </div>
+            </nav>
+    </header>
