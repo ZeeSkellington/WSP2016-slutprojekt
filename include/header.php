@@ -24,10 +24,9 @@
             </div>
             <nav>
                 <div id="menu">
-                        <li><a href="index.php?page=">Your board</a></li>
-                        <li><a href="index.php?page=">Friends</a></li>
-                        <li><a href="index.php?page=">Profile</a></li>
-                        <li><a href="index.php?page=">Settings</a></li>
+                        <li><a href="index.php?page=Profile">Profile</a></li>
+                        <li><a href="index.php?page=Friends">Friends</a></li>
+                        <li><a href="index.php?page=Settings">Settings</a></li>
                 </div>
             </nav>
     </header>
